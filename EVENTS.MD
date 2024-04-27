@@ -15,14 +15,14 @@
 |Month|Event|TYPE|CM|Description|
 |-----|-----|----|--|-----------|
 |6|4|Quarry|||
-|7|5|Nile|||
+|7|5|Nile|CM 6||
 |8|6|Quarry|N/A||
-|8|7|Construction|CM 3||
-|9|8|Nile|CM 8||
-|9|9|Construction|CM 8||
-|9|10|Project Manager|CM 8||
-|10|11|Team Leader|CM 8||
-|10|12|Quarry|CM 8||
+|8|7|Construction|N/A||
+|9|8|Nile|CM 4 / CM 5||
+|9|9|Construction|CM 10||
+|9|10|Project Manager|N/A||
+|10|11|Team Leader|N/A||
+|10|12|Quarry|CM 1||
 |10|13|Team Leader|N/A||
 
 ### Phase 3
